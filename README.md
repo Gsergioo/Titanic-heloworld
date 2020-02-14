@@ -3,8 +3,7 @@
 Este notebook contém um "Tutorial" de como pontuar 0.79425 no kaggle com o dataset titanic. O kaggle é um site de competição relacionado
 a dados, e o dataset é um hello-world no mundo dos "Kagglers" e também dos dados.
 
-
-
+![download](https://user-images.githubusercontent.com/53011345/74574234-c4c6b400-4f61-11ea-99e1-90aeaf3d499e.jpeg)
 
 ## O Notebook:
  
